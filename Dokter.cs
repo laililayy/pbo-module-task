@@ -8,7 +8,7 @@ using System.Text;
 
         public void Diagnosa()
         {
-            Console.WriteLine($"Dokter {nama} sedang mengoperasi pasien.");
+            Console.WriteLine($"Dokter {nama} sedang mendiagnosa penyakit pasien.");
         }
 
         public override void Aktivitas()
